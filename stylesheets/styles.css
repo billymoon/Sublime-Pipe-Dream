@@ -253,3 +253,22 @@ footer {
     color:#444;
   }
 }
+
+header{
+    float: left;
+    position: fixed;
+    top: 180px;
+    width: 270px;
+}
+
+body{
+    margin: 0;
+    padding: 0;  
+}
+
+#topper img {
+    left: 50%;
+    margin-left: -400px;
+    max-width: 100%;
+    position: relative;
+}
