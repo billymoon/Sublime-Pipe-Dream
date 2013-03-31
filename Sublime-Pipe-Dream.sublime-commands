@@ -1,0 +1,58 @@
+[
+    {
+        "caption": "Pipe Dream: Beautify JavaScript (uglifyjs)",
+        "command": "text_replace" , "args": { "command": "uglifyjs -b --comments all" }
+    },
+    {
+        "caption": "Pipe Dream: Minify JavaScript (uglifyjs)",
+        "command": "text_replace" , "args": { "command": "uglifyjs" }
+    },
+    {
+        "caption": "Pipe Dream: Coffee Script To JavaSctipt (coffee)",
+        "command": "text_replace" , "args": { "command": "coffee -p -s -b" }
+    },
+    {
+        "caption": "Pipe Dream: JavaScript to Coffee Script (js2coffee)",
+        "command": "text_replace" , "args": { "command": "js2coffee" }
+    },
+    {
+        "caption": "Pipe Dream: Execute JavaScript",
+        "command": "console_log" , "args": { "command": "node" }
+    },
+    {
+        "caption": "Pipe Dream: Execute Coffee Script",
+        "command": "console_log" , "args": { "command": "coffee -s" }
+    },
+    {
+        "caption": "Pipe Dream: Render: Markdown",
+        "command": "text_replace", "args": { "command": "marked" }
+    },
+    {
+        "caption": "Pipe Dream: HTML to Markdown",
+        "command": "text_replace", "args": { "command": "html2md" }
+    },
+    {
+        "caption": "Pipe Dream: Tidy HTML",
+        "command": "text_replace", "args": { "command": "tidy -i --tidy-mark no --show-body-only yes --wrap 0" }
+    },
+    {
+        "caption": "Pipe Dream: Execute MySQL",
+        "command": "console_log", "args": { "command": "mysql -u$u -p$p", "exports": "yes" }
+    },
+    {
+        "caption": "Pipe Dream: Encrypt (AES 256)",
+        "command": "console_log", "args": { "command": "openssl aes-256-cbc -e -k $pw | openssl enc -base64", "exports": "yes"}
+    },
+    {
+        "caption": "Pipe Dream: Decrypt (AES 256)",
+        "command": "console_log", "args": { "command": "openssl enc -base64 -d | openssl aes-256-cbc -d -k $pw", "exports": "yes"}
+    },
+    {
+        "caption": "Pipe Dream: Bash Shell",
+        "command": "console_log", "args": { "command": "bash" }
+    },
+    {
+        "caption": "Pipe Dream: Render Markdown to Clipboard",
+        "command": "console_log", "args": { "command": "marked | textutil -stdin -format html -convert rtf -stdout | pbcopy -prefer rtf && echo rtf content is on the clipboard" }
+    }
+]

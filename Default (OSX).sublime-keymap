@@ -1,0 +1,16 @@
+[
+  { "keys": ["ctrl+alt+a","b"], "command": "text_replace" , "args": { "command": "uglifyjs -b --comments all" } },
+  { "keys": ["ctrl+alt+a","u"], "command": "text_replace" , "args": { "command": "uglifyjs" } },
+  { "keys": ["ctrl+alt+a","j"], "command": "text_replace" , "args": { "command": "coffee -p -s -b" } },
+  { "keys": ["ctrl+alt+a","c"], "command": "text_replace" , "args": { "command": "js2coffee" } },
+  { "keys": ["ctrl+alt+a","x","j"], "command": "console_log" , "args": { "command": "node" } },
+  { "keys": ["ctrl+alt+a","x","c"], "command": "console_log" , "args": { "command": "coffee -s" } },
+  { "keys": ["ctrl+alt+a","m","h"], "command": "text_replace", "args": { "command": "marked" } },
+  { "keys": ["ctrl+alt+a","h","m"], "command": "text_replace", "args": { "command": "html2md" } },
+  { "keys": ["ctrl+alt+a","t","h"], "command": "text_replace", "args": { "command": "tidy -i --tidy-mark no --show-body-only yes --wrap 0" } },
+  { "keys": ["ctrl+alt+a","x","m"], "command": "console_log", "args": { "command": "mysql -u$u -p$p", "exports": "yes" } },
+  { "keys": ["ctrl+alt+a","e"], "command": "console_log", "args": { "command": "openssl aes-256-cbc -e -k $pw | openssl enc -base64", "exports": "yes"} },
+  { "keys": ["ctrl+alt+a","d"], "command": "console_log", "args": { "command": "openssl enc -base64 -d | openssl aes-256-cbc -d -k $pw", "exports": "yes"} },
+  { "keys": ["ctrl+alt+a","s"], "command": "console_log", "args": { "command": "bash" } },
+  { "keys": ["ctrl+alt+a","m","c"], "command": "console_log", "args": { "command": "marked | textutil -stdin -format html -convert rtf -stdout | pbcopy -prefer rtf && echo RTF copied clipboard || Not copied; date" } }
+]
