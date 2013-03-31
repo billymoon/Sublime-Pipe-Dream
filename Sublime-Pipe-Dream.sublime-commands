@@ -8,7 +8,7 @@
         "command": "text_replace" , "args": { "command": "uglifyjs" }
     },
     {
-        "caption": "Pipe Dream: Coffee Script To JavaSctipt (coffee)",
+        "caption": "Pipe Dream: Coffee Script To JavaScript (coffee)",
         "command": "text_replace" , "args": { "command": "coffee -p -s -b" }
     },
     {
@@ -53,6 +53,6 @@
     },
     {
         "caption": "Pipe Dream: Render Markdown to Clipboard",
-        "command": "console_log", "args": { "command": "marked | textutil -stdin -format html -convert rtf -stdout | pbcopy -prefer rtf && echo rtf content is on the clipboard" }
+        "command": "console_log", "args": { "command": "marked | textutil -stdin -format html -convert rtf -stdout | pbcopy -prefer rtf && echo RTF copied clipboard || Not copied; date" }
     }
 ]

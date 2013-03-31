@@ -5,9 +5,24 @@ import os
 import json
 import re
 
-my_env = os.environ.copy()
-my_env["PATH"] = "/usr/sbin:/sbin:/usr/local/bin:" + my_env["PATH"]
+settings = sublime.load_settings(__name__ + '.sublime-settings')
 
+my_env = os.environ.copy()
+
+path = settings.get("PATH")
+my_env["PATH"] = my_env["PATH"] + ":" + path
+settings.set("PATH", path)
+
+print my_env
+sublime.save_settings(__name__ + '.sublime-settings')
+
+commands = file(__name__ + '.sublime-commands')
+cmds = json.loads(commands.read())
+print len(cmds)
+
+cmd = { "caption": "Pipe Dream: Say", "command": "console_log" , "args": { "command": "say" } }
+cmds.append(cmd)
+print cmds
 
 def debug(message):
     if message is None:

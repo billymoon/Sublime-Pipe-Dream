@@ -1,0 +1,2098 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sen",
+				"sentences"
+			],
+			[
+				"dra",
+				"dramatize"
+			],
+			[
+				"last",
+				"lastIndexOf"
+			],
+			[
+				"ac",
+				"acronyms"
+			],
+			[
+				"ar",
+				"acronyms"
+			],
+			[
+				"unp",
+				"unpacked"
+			],
+			[
+				"appda",
+				"appdata"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"form",
+				"form_data_input"
+			],
+			[
+				"row",
+				"row_data"
+			],
+			[
+				"load",
+				"loadDataWindow"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"sel",
+				"allowSelection"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"forms",
+				"forms_window"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"dyna",
+				"dynamicButton"
+			],
+			[
+				"lo",
+				"loadedData"
+			],
+			[
+				"cotr",
+				"controls"
+			],
+			[
+				"Ob",
+				"Object"
+			],
+			[
+				"opts",
+				"opts_in"
+			],
+			[
+				"lis",
+				"listFormsWindow"
+			],
+			[
+				"bool",
+				"booltest"
+			],
+			[
+				"onrow",
+				"onrowselect"
+			],
+			[
+				"table",
+				"tabledata"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"create",
+				"createWindow"
+			],
+			[
+				"cre",
+				"createButton"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"gen",
+				"gendata"
+			],
+			[
+				"list",
+				"listForms"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"bdrw",
+				"border-width"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"full",
+				"full_data"
+			],
+			[
+				"encode",
+				"encode_data"
+			],
+			[
+				"test",
+				"testrunner"
+			],
+			[
+				"co",
+				"coeff"
+			],
+			[
+				"decr",
+				"decrypted"
+			],
+			[
+				"b64",
+				"b64tohex"
+			],
+			[
+				"RSASet",
+				"RSASetPrivateEx"
+			],
+			[
+				"RSA",
+				"RSASetPrivate"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"enc_comp",
+				"enc_comp_time"
+			],
+			[
+				"plugin",
+				"plugindir"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"foundation",
+				"foundation-placeholder"
+			],
+			[
+				"reset",
+				"resetStyle"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"demo",
+				"demo-input"
+			],
+			[
+				"jw-",
+				"jw-animation"
+			],
+			[
+				"Ve",
+				"VectorChain"
+			],
+			[
+				"Con",
+				"ConstrainVectors"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"anim",
+				"setAnimation"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"off",
+				"offsetx"
+			],
+			[
+				"score1",
+				"score1text"
+			],
+			[
+				"start",
+				"startGame"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"lucida",
+				"\"Lucida Grande\""
+			],
+			[
+				"anima",
+				"animateCharacter"
+			],
+			[
+				"ori",
+				"orientation"
+			],
+			[
+				"orie",
+				"orientalDetective"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"mat",
+				"matchMedia"
+			],
+			[
+				"rese",
+				"resetCharacter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 3179 files for \"save_settings\" (regex)\n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/AAAPackageDev/Support/API/API.sublime-completions:\n   12  		{\"trigger\": \"error_message\", \"contents\": \"error_message(${1:string})\" },\n   13  		{\"trigger\": \"load_settings\", \"contents\": \"load_settings(${1:base_name})\" },\n   14: 		{\"trigger\": \"save_settings\", \"contents\": \"save_settings(${1:base_name})\" },\n   15  		{\"trigger\": \"windows\", \"contents\": \"windows()\" },\n   16  		{\"trigger\": \"active_window\", \"contents\": \"active_window()\" },\n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/font.py:\n   17          s.set(\"font_size\", current)\n   18  \n   19:         sublime.save_settings(\"Preferences.sublime-settings\")\n   20  \n   21  class DecreaseFontSizeCommand(sublime_plugin.ApplicationCommand):\n   ..\n   36          s.set(\"font_size\", current)\n   37  \n   38:         sublime.save_settings(\"Preferences.sublime-settings\")\n   39  \n   40  class ResetFontSizeCommand(sublime_plugin.ApplicationCommand):\n   ..\n   43          s.erase(\"font_size\")\n   44  \n   45:         sublime.save_settings(\"Preferences.sublime-settings\")\n   46  \n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.py:\n 3356                  key=lambda s: s.lower())\n 3357              settings.set('installed_packages', installed_packages)\n 3358:             sublime.save_settings(__name__ + '.sublime-settings')\n 3359          sublime.set_timeout(save_package, 1)\n 3360  \n ....\n 3554              installed_packages.remove(package_name)\n 3555              settings.set('installed_packages', installed_packages)\n 3556:             sublime.save_settings('%s.sublime-settings' % __name__)\n 3557          sublime.set_timeout(clear_package, 1)\n 3558  \n ....\n 3801          if installed_packages != self.installed_packages:\n 3802              self.settings.set('installed_packages', installed_packages)\n 3803:             sublime.save_settings(self.settings_file)\n 3804  \n 3805  \n ....\n 3960              ignored.append(package)\n 3961              settings.set('ignored_packages', ignored)\n 3962:             sublime.save_settings(preferences_filename())\n 3963              return True\n 3964          return False\n ....\n 3978              settings.set('ignored_packages',\n 3979                  list(set(ignored) - set([package])))\n 3980:             sublime.save_settings(preferences_filename())\n 3981  \n 3982      def on_done(self, picked):\n ....\n 4392                  ignored.append(package)\n 4393                  settings.set('ignored_packages', ignored)\n 4394:                 sublime.save_settings(preferences_filename())\n 4395  \n 4396          ignored.remove(package)\n ....\n 4420              settings = sublime.load_settings(preferences_filename())\n 4421              settings.set('ignored_packages', self.ignored)\n 4422:             sublime.save_settings(preferences_filename())\n 4423          sublime.set_timeout(unignore_package, 10)\n 4424  \n ....\n 4447          repository_channels.append(input)\n 4448          settings.set('repository_channels', repository_channels)\n 4449:         sublime.save_settings('%s.sublime-settings' % __name__)\n 4450          sublime.status_message(('Channel %s successfully ' +\n 4451              'added') % input)\n ....\n 4482          repositories.append(input)\n 4483          settings.set('repositories', repositories)\n 4484:         sublime.save_settings('%s.sublime-settings' % __name__)\n 4485          sublime.status_message('Repository %s successfully added' % input)\n 4486  \n ....\n 4529          ignored.append(package)\n 4530          self.settings.set('ignored_packages', ignored)\n 4531:         sublime.save_settings(preferences_filename())\n 4532          sublime.status_message(('Package %s successfully added to list of ' +\n 4533              'disabled packages - restarting Sublime Text may be required') %\n ....\n 4565          self.settings.set('ignored_packages',\n 4566              list(set(ignored) - set([package])))\n 4567:         sublime.save_settings(preferences_filename())\n 4568          sublime.status_message(('Package %s successfully removed from list ' +\n 4569              'of disabled packages - restarting Sublime Text may be required') %\n ....\n 4701                  settings = sublime.load_settings(self.settings_file)\n 4702                  settings.set('auto_upgrade_last_run', None)\n 4703:                 sublime.save_settings(self.settings_file)\n 4704              sublime.set_timeout(reset_last_run, 1)\n 4705              packages = [package]\n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Sublime-Pipe-Dream/Sublime-Pipe-Dream.py:\n   16    print settings.get(\"delme\")\n   17    settings.set(\"ok\",\"yes it is\")\n   18:   print sublime.save_settings(__name__ + '.sublime-settings')\n   19    print settings.get(\"ok\")\n   20  sublime.set_timeout(save_package, 1)\n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Web Inspector/swi.py:\n 1128      s = sublime.load_settings(\"swi.sublime-settings\")\n 1129      s.set('breaks', brk_object)\n 1130:     sublime.save_settings(\"swi.sublime-settings\")\n 1131  \n 1132      #print breaks\n\n/Users/itaccess/Library/Application Support/Sublime Text 2/Settings/Auto Save Session.sublime_session:\n 3200  				},\n 3201  				{\n 3202: 					\"contents\": \"Searching 3179 files for \\\"save_settings\\\" (regex)\\n\\n/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/AAAPackageDev/Support/API/API.sublime-completions:\\n   12  		{\\\"trigger\\\": \\\"error_message\\\", \\\"contents\\\": \\\"error_message(${1:string})\\\" },\\n   13  		{\\\"trigger\\\": \\\"load_settings\\\", \\\"contents\\\": \\\"load_settings(${1:base_name})\\\" },\\n   14: 		{\\\"trigger\\\": \\\"save_settings\\\", \\\"contents\\\": \\\"save_settings(${1:base_name})\\\" },\\n   15  		{\\\"trigger\\\": \\\"windows\\\", \\\"contents\\\": \\\"windows()\\\" },\\n   16  		{\\\"trigger\\\": \\\"active_window\\\", \\\"contents\\\": \\\"active_window()\\\" },\\n\\n\",\n 3203  					\"settings\":\n 3204  					{\n ....\n 3657  				\"find_history\":\n 3658  				[\n 3659: 					\"save_settings\",\n 3660  					\"save_package\",\n 3661  					\"settings.set\",\n\n23 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 6148,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/font.py",
+			"settings":
+			{
+				"buffer_size": 1269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/Minimap.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.py",
+			"settings":
+			{
+				"buffer_size": 176182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Main.sublime-menu",
+			"settings":
+			{
+				"buffer_size": 1965,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Context.sublime-menu",
+			"settings":
+			{
+				"buffer_size": 1842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Sublime-Pipe-Dream.py",
+			"settings":
+			{
+				"buffer_size": 4849,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Sublime-Pipe-Dream.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Brad.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"next",
+				"Bookmarks: Select Next"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sste",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Uglify JS: Beautify Code"
+			],
+			[
+				"tidy",
+				"Tidy: HTML"
+			],
+			[
+				"mark",
+				"Convert: HTML to Markdown"
+			],
+			[
+				"sscoff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"back",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sskl",
+				"Set Syntax: Klog"
+			],
+			[
+				"klo",
+				"SublimeREPL: Klog"
+			],
+			[
+				"kl",
+				"SublimeREPL: Klog"
+			],
+			[
+				"ssklo",
+				"Set Syntax: Klog"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssyjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"coff",
+				"Coffee: Run Script"
+			],
+			[
+				"packaena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"gitbra",
+				"Git: Change Branch"
+			],
+			[
+				"gcb",
+				"Git: Change Branch"
+			],
+			[
+				"gitchange",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"gitano",
+				"Git: Toggle Annotations"
+			],
+			[
+				"ganno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"ipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pty",
+				"SublimePTY"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sscs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ssjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sssty",
+				"Set Syntax: Stylus"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 206.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Sublime-Pipe-Dream/Sublime-Pipe-Dream.sublime-settings",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/Sublime-Pipe-Dream/Sublime-Pipe-Dream.sublime-settings",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.tmPreferences",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.py",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/LoremIpsum/Context.sublime-menu",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings.night.json",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/Sublime-Pipe-Dream/Sublime-Pipe-Dream.sublime-commands",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/LoremIpsum/Main.sublime-menu",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/Sublime-Pipe-Dream/.gitignore",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/.gitignore",
+		"/Users/itaccess/Documents/projects/mine/coffee-with-sugar/ideas.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/controllers/parse-form-data.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/login.coffee.md",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/util/global.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/util/debug.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/windows/main-menu.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/main-menu.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/controllers/get-data.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/controllers/form-element-wrappers.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/controllers/parse-form-data.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/ita/ita.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/all-lib.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/partials/form-elements.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/misc/proposed-data.json",
+		"/Users/itaccess/Documents/clients/kimetrica/app/proposed-data.json",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/app.js",
+		"/Users/itaccess/Desktop/uberlib.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/util/global.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/partials/login.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/server/express-server/server.js",
+		"/Users/itaccess/Desktop/data.json",
+		"/Users/itaccess/Documents/www/test/dynamic/app.js",
+		"/Users/itaccess/Desktop/lib.js",
+		"/Users/itaccess/Documents/clients/kimetrica/crypt/key.pub",
+		"/Users/itaccess/Documents/clients/kimetrica/crypt/key.pem",
+		"/Users/itaccess/Documents/clients/kimetrica/app/server/test/unit-tests/unit-ita.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/rawdeflate/rawdeflate.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/asn1/asn1.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/cryptojs/cryptojs.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/rsa/rsa.js",
+		"/Users/itaccess/Desktop/rawdeflatejs",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/shims/btoatob.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/underscore/underscore.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/sugar/sugar.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/main-menu.js",
+		"/Users/itaccess/Documents/www/test/dynamic/delme.1.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/.gitignore",
+		"/Users/itaccess/Documents/www/test/dynamic/delme.coffee",
+		"/Users/itaccess/Documents/www/test/dynapp/src/dynamic.coffee",
+		"/Users/itaccess/Desktop/lit/whatever/x.coffee",
+		"/Users/itaccess/Desktop/lit/whatever/delme.coffee",
+		"/Users/itaccess/Desktop/lit/myfile.js.md",
+		"/Users/itaccess/Desktop/lit/lit.litcoffee",
+		"/Users/itaccess/Desktop/lit/delme.coffee",
+		"/Users/itaccess/Documents/www/test/dynapp/res/dynapp.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/controls.coffee.md",
+		"/Users/itaccess/Documents/www/test/dynamic/app.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/load-data.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/tiapp.xml",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/forms.coffee",
+		"/Users/itaccess/Documents/projects/mine/sublime-plugins/Sublime-NodeJS-Plugins/Default (Linux).sublime-keymap",
+		"/Users/itaccess/Documents/www/test/console.log",
+		"/Users/itaccess/Documents/clients/kimetrica/misc/proposed-data-original.json",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/app.coffee.md",
+		"/Users/itaccess/Documents/www/test/dynamic/app.coffee.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/controls.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/partials/form-elements.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/controllers/form-elements.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/form-elements.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/partials/form_elements.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/docs/foot.html.snippet",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/docs/manifest.json",
+		"/Users/itaccess/Desktop/horus/1363860719170_959/index.md",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/load-data-window-open.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/load-data-window.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/load-data-button.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/list-forms-button.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/parse-form-data.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/partials/toolbar.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/gen-form.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/README",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/windows/intro.coffee.md",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/build/android/bin/assets/Resources/ui/windows/main-menu.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/build/android/bin/assets/Resources/ui/partials/login.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/build/android/bin/assets/Resources/src/ui/windows/main-menu.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/build/android/bin/assets/Resources/src/ui/partials/login.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/controls.coffee",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/fuzzy_file_nav.sublime-settings",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/controls.coffee",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/brad",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/toolbar.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/server/lib/sugar:sugar.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/lib/sugar:sugar.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/debug.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/login.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/old/global.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/src/ui/common/toolbar.coffee",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/ui/common/toolbar.coffee.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/main-menu.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/debug.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/gen-form.js",
+		"/tmp/crontab.Y6ehrE3hHJ",
+		"/tmp/crontab.ILyHbGWmAt",
+		"/tmp/crontab.PD8r3DmeYy",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings.day.json",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/login.js",
+		"/Users/itaccess/Desktop/timer.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/controllers/GenerateNativeForms.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/controllers/GenerateForms.js",
+		"/Users/itaccess/Documents/clients/kimetrica/xaa",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/toolbar.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/form-elements.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/build/android/bin/assets/Resources/views/main-menu.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/test-form.js",
+		"/Users/itaccess/Desktop/lunr-test.js",
+		"/Users/itaccess/Documents/projects/github/lunr.js/test/lunr_test.js",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/itaccess/Documents/clients/kimetrica/kimetrica.sublime-workspace",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/brad.sublime-build",
+		"/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/User/bris.sublime-build",
+		"/Users/itaccess/Documents/clients/kimetrica/app/ki-metric-on-the-go/Resources/views/login+html.js",
+		"/Users/itaccess/Documents/clients/kimetrica/app/proposed-communication-flow.md",
+		"/Users/itaccess/Documents/clients/claudia/links.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"../..",
+			"../../..",
+			"../..",
+			"../../..",
+			"../..",
+			"../../*.coffee",
+			"../..",
+			".",
+			"",
+			"/Users/itaccess/Library/Application Support/Sublime Text 2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"save_settings",
+			"save_package",
+			"settings.set",
+			"settings",
+			"Java",
+			" \\(.+?\\)",
+			"uglifyjs",
+			"xxx",
+			"caption",
+			"command",
+			"ctrl",
+			"*.pyc\n*.sublime-project\n*.sublime-workspace",
+			"acronyize",
+			"bug",
+			"compare",
+			"companre",
+			"compare",
+			"compare:",
+			"compare",
+			"credentials",
+			"bug",
+			"bug {",
+			"bug",
+			"writefile",
+			"RawDeflate",
+			"rawdeflate",
+			"RawDeflate",
+			"//",
+			"var",
+			"http",
+			"parse-form-data",
+			"write",
+			"writeFile",
+			"RawDeflate",
+			"rawdeflate",
+			"require",
+			"http",
+			"validat",
+			"skips",
+			"checks",
+			",",
+			"http",
+			"object",
+			"whatever",
+			"section",
+			"form_data_input",
+			"g.form_data_input",
+			"variable\\.id",
+			"variable.id",
+			"Multi",
+			"multi",
+			"chosen_id",
+			"bug v",
+			"check-0",
+			"variable_id",
+			"multi",
+			"variable",
+			"chosen",
+			"form_data_input",
+			"multi",
+			"multi_input",
+			"0",
+			"button",
+			"form_element_wrappers",
+			"button",
+			"chosen",
+			"multi",
+			"single",
+			"createTableViewRow",
+			"win.open",
+			"integer_input",
+			"5",
+			"mid_strong",
+			"15",
+			"right",
+			"left",
+			"form_element_wrappers",
+			"bug",
+			"X",
+			"x",
+			"bug",
+			"BUG",
+			"bug",
+			"width",
+			"textAlign",
+			"\"left\"",
+			"textAlign",
+			"layout",
+			"title",
+			"createLabel",
+			"form_elements",
+			"each",
+			"data",
+			"Ti.UI.TEXT_ALIGNMENT_CENTER",
+			"Ti.UI.createLabel",
+			"Ti.UI.createTableViewSection",
+			"Ti.UI.createLabel",
+			"Ti.UI.TEXT_ALIGNMENT_CENTER",
+			"textAlign",
+			"form_elements",
+			"text",
+			"font",
+			"height",
+			"backgroundColor",
+			"Ti.UI.createTableViewSection",
+			"_.each ",
+			"createTableViewSection",
+			"Ti.UI.createLabel",
+			"Ti.UI.TEXT_ALIGNMENT_CENTER",
+			"var",
+			"ai",
+			"fe",
+			"data",
+			"form_elements",
+			"variable_types",
+			" =",
+			"#",
+			"createTableView",
+			"table",
+			"listFormsTable",
+			"intro",
+			"window",
+			"Window",
+			"window",
+			"controls.button",
+			"loadDataButton",
+			"mainMenu",
+			"auto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"function($1,k)",
+			" ",
+			"\\\\n",
+			"'",
+			";",
+			"tutor",
+			"demo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 4366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AAAPackageDev/Support/Sublime Settings.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 6148,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										358,
+										371
+									],
+									[
+										387,
+										400
+									],
+									[
+										711,
+										724
+									],
+									[
+										918,
+										931
+									],
+									[
+										1115,
+										1128
+									],
+									[
+										1423,
+										1436
+									],
+									[
+										1695,
+										1708
+									],
+									[
+										1981,
+										1994
+									],
+									[
+										2168,
+										2181
+									],
+									[
+										2410,
+										2423
+									],
+									[
+										2643,
+										2656
+									],
+									[
+										2903,
+										2916
+									],
+									[
+										3156,
+										3169
+									],
+									[
+										3438,
+										3451
+									],
+									[
+										3706,
+										3719
+									],
+									[
+										4051,
+										4064
+									],
+									[
+										4442,
+										4455
+									],
+									[
+										4785,
+										4798
+									],
+									[
+										5119,
+										5132
+									],
+									[
+										5373,
+										5386
+									],
+									[
+										5730,
+										5743
+									],
+									[
+										5763,
+										5776
+									],
+									[
+										6049,
+										6062
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/font.py",
+					"settings":
+					{
+						"buffer_size": 1269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Default/Minimap.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AAAPackageDev/Support/Sublime Settings.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/itaccess/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.py",
+					"settings":
+					{
+						"buffer_size": 176182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122943,
+								122951
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 46662.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Main.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Context.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 1842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1842,
+								1842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Sublime-Pipe-Dream.py",
+					"settings":
+					{
+						"buffer_size": 4849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Sublime-Pipe-Dream.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 4.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AAAPackageDev/Support/Sublime Settings.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.git":
+	{
+		"height": 304.0
+	},
+	"output.panel":
+	{
+		"height": 460.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 181.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"py",
+				"Sublime-Pipe-Dream.py"
+			],
+			[
+				"get",
+				"src/controllers/get-data.coffee"
+			],
+			[
+				"glob",
+				"src/util/global.coffee"
+			],
+			[
+				"app",
+				"Resources/app.js"
+			],
+			[
+				"pub",
+				"kimetrica/crypt/key.pub"
+			],
+			[
+				"key",
+				"kimetrica/crypt/key.pem"
+			],
+			[
+				"mmjs",
+				"Resources/old/main-menu.js"
+			],
+			[
+				"main",
+				"Resources/old/main-menu.js"
+			],
+			[
+				"mamjs",
+				"Resources/old/main-menu.js"
+			],
+			[
+				"login",
+				"src/ui/partials/login.coffee"
+			],
+			[
+				"ma",
+				"app/ki-metric-on-the-go/Resources/views/main-menu.js"
+			],
+			[
+				"native",
+				"app/ki-metric-on-the-go/Resources/controllers/GenerateNativeForms.js"
+			],
+			[
+				"log",
+				"app/ki-metric-on-the-go/Resources/views/login.js"
+			],
+			[
+				"a",
+				"app/ki-metric-on-the-go/Resources/app.js"
+			],
+			[
+				"",
+				"app/ki-metric-on-the-go/Resources/views/main-menu.js"
+			],
+			[
+				"mai",
+				"app/ki-metric-on-the-go/Resources/views/main-menu.js"
+			],
+			[
+				"lo",
+				"app/ki-metric-on-the-go/Resources/views/login.js"
+			],
+			[
+				"ssjs",
+				"app/server/express-server/node_modules/stylus/node_modules/cssom/lib/StyleSheet.js"
+			],
+			[
+				"jw",
+				"jw.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/itaccess/Documents/projects/mine/sublime-plugins/Sublime-NodeJS-Plugins/Sublime-NodeJS-Plugins.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true
+}
