@@ -13,16 +13,13 @@ path = settings.get("PATH")
 my_env["PATH"] = my_env["PATH"] + ":" + path
 settings.set("PATH", path)
 
-print my_env
 sublime.save_settings(__name__ + '.sublime-settings')
 
 commands = file(__name__ + '.sublime-commands')
 cmds = json.loads(commands.read())
-print len(cmds)
 
 cmd = { "caption": "Pipe Dream: Say", "command": "console_log" , "args": { "command": "say" } }
 cmds.append(cmd)
-print cmds
 
 def debug(message):
     if message is None:
@@ -112,8 +109,8 @@ class ConsoleLogCommand(sublime_plugin.TextCommand):
 
                 s = self.view.substr(region)
 
-                echo = subprocess.Popen(['echo', s], env=my_env, stdout=subprocess.PIPE)
-                ret = subprocess.Popen(command, env=my_env, shell=True, stdin=echo.stdout, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                echo = subprocess.Popen(['echo', s], stdout=subprocess.PIPE)
+                ret = subprocess.Popen(command, shell=True, stdin=echo.stdout, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
                 self.create_panel()
                 self.clear_panel()
@@ -157,8 +154,8 @@ class TextReplaceCommand(sublime_plugin.TextCommand):
 
     def execute(self, command, s):
 
-        echo = subprocess.Popen(['echo', s], env=my_env, stdout=subprocess.PIPE)
-        ret = subprocess.Popen(command, env=my_env, shell=True, stdin=echo.stdout, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        echo = subprocess.Popen(['echo', s], stdout=subprocess.PIPE)
+        ret = subprocess.Popen(command, shell=True, stdin=echo.stdout, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output = ret.stdout.read().decode("utf-8")
 
         if len(output) > 0:
