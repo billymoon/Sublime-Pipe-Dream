@@ -5,28 +5,40 @@ import os
 import json
 import re
 
-settings = sublime.load_settings(__name__ + '.sublime-settings')
+# rename this variable...
+packageName = os.path.splitext(os.path.basename(__file__))[0]
+settings = sublime.load_settings(packageName + '.sublime-settings')
 
 my_env = os.environ.copy()
+if not my_env["PATH"]:
+    my_env["PATH"] = ""
 
-path = settings.get("PATH")
+path = settings.get("PATH") or ""
+
 my_env["PATH"] = my_env["PATH"] + ":" + path
 settings.set("PATH", path)
 
-sublime.save_settings(__name__ + '.sublime-settings')
+os.environ['PATH'] += ":/usr/local/bin/"
+os.environ['PATH'] += ":/usr/bin/"
+os.environ['PATH'] += ":/Users/itaccess/bin/"
+os.environ['DYLD_LIBRARY_PATH'] = "/Users/itaccess/bin/instantclient_11_2"
+os.environ['NODE_PATH'] = "/usr/local/lib/node_modules"
 
-commands = file(__name__ + '.sublime-commands')
+os.environ['VAGRANT_CWD'] = "/Users/itaccess/Documents/projects/issue/vm"
+
+sublime.save_settings(packageName + '.sublime-settings')
+
+# f = open(packageName + '.sublime-commands', 'r+')
+commands = open(os.path.dirname(__file__)+'/'+packageName+'.sublime-commands', 'r+')
 cmds = json.loads(commands.read())
-
-cmd = { "caption": "Pipe Dream: Say", "command": "console_log" , "args": { "command": "say" } }
-cmds.append(cmd)
+# # cmd = { "caption": "Pipe Dream: Say", "command": "console_log" , "args": { "command": "say" } }
+# # cmds.append(cmd)
 
 def debug(message):
     if message is None:
         message = "NONE"
     # print type(message)
-    print "DEBUG: "+json.dumps(message)
-
+    print("DEBUG: "+json.dumps(message))
 
 def set_exports(self, store, s, edit, command, root_command, remember_exports, console="no"):
 
@@ -115,12 +127,10 @@ class ConsoleLogCommand(sublime_plugin.TextCommand):
                 self.create_panel()
                 self.clear_panel()
 
-                try:
-                    output = ret.stdout.read().decode('utf-8')
-                    self.append_data(output)
-                except:
-                    error = ret.stderr.read()
-                    self.append_data(error)
+                # try:
+                output = ret.stdout.read().decode('utf-8')
+                self.append_data(output)
+
 
                 self.panel.set_read_only(True)
 
