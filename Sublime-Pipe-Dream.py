@@ -5,7 +5,6 @@ import os
 import json
 import re
 
-# rename this variable...
 packageName = os.path.splitext(os.path.basename(__file__))[0]
 settings = sublime.load_settings(packageName + '.sublime-settings')
 
@@ -16,28 +15,22 @@ if not my_env["PATH"]:
 path = settings.get("PATH") or ""
 
 my_env["PATH"] = my_env["PATH"] + ":" + path
+
 settings.set("PATH", path)
 
-os.environ['PATH'] += ":/usr/local/bin/"
-os.environ['PATH'] += ":/usr/bin/"
-os.environ['PATH'] += ":/Users/itaccess/bin/"
-os.environ['DYLD_LIBRARY_PATH'] = "/Users/itaccess/bin/instantclient_11_2"
-os.environ['NODE_PATH'] = "/usr/local/lib/node_modules"
-
-os.environ['VAGRANT_CWD'] = "/Users/itaccess/Documents/projects/issue/vm"
+# documentation needed for user's settings file
+for item in settings.get("ENV").items():
+    # some error checking here would not go amiss
+    os.environ[item[0]] = item[1]
 
 sublime.save_settings(packageName + '.sublime-settings')
 
-# f = open(packageName + '.sublime-commands', 'r+')
 commands = open(os.path.dirname(__file__)+'/'+packageName+'.sublime-commands', 'r+')
 cmds = json.loads(commands.read())
-# # cmd = { "caption": "Pipe Dream: Say", "command": "console_log" , "args": { "command": "say" } }
-# # cmds.append(cmd)
 
 def debug(message):
     if message is None:
         message = "NONE"
-    # print type(message)
     print("DEBUG: "+json.dumps(message))
 
 def set_exports(self, store, s, edit, command, root_command, remember_exports, console="no"):

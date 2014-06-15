@@ -2,24 +2,13 @@
     "id":"edit",
     "children":
     [{
-        "caption":"Pipe Dream...",
+        "caption":"Pipe Dream:",
         "mnemonic": "PD",
         "children":
         [
           { "caption": "Beautify JavaScript", "command": "text_replace" , "args": { "command": "uglifyjs -b --comments all" } },
           { "caption": "Minify JavaScript", "command": "text_replace" , "args": { "command": "uglifyjs" } },
-          { "caption": "Coffee Script To JS", "command": "text_replace" , "args": { "command": "coffee -p -s -b" } },
-          { "caption": "JS to Coffee Script", "command": "text_replace" , "args": { "command": "js2coffee" } },
-          { "caption": "Execute JavaScript", "command": "console_log" , "args": { "command": "node" } },
-          { "caption": "Execute Coffee Script", "command": "console_log" , "args": { "command": "coffee -s" } },
-          { "caption": "Render: Markdown", "command": "text_replace", "args": { "command": "marked" } },
-          { "caption": "HTML to Markdown", "command": "text_replace", "args": { "command": "html2md" } },
-          { "caption": "Tidy HTML", "command": "text_replace", "args": { "command": "tidy -i --tidy-mark no --show-body-only yes --wrap 0" } },
-          { "caption": "Execute MySQL", "command": "console_log", "args": { "command": "mysql -u$u -p$p", "exports": "yes" } },
-          { "caption": "Encrypt", "command": "console_log", "args": { "command": "openssl aes-256-cbc -e -k $pw | openssl enc -base64", "exports": "yes"} },
-          { "caption": "Decrypt", "command": "console_log", "args": { "command": "openssl enc -base64 -d | openssl aes-256-cbc -d -k $pw", "exports": "yes"} },
-          { "caption": "Bash Shell", "command": "console_log", "args": { "command": "bash" } },
-          { "caption": "Markdown to Clipboard", "command": "console_log", "args": { "command": "marked | textutil -stdin -format html -convert rtf -stdout | pbcopy -prefer rtf && echo RTF copied clipboard || Not copied; date" } }
+          { "caption": "Execute JavaScript", "command": "console_log" , "args": { "command": "node" } }
         ]
     }]
 }]
